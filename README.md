@@ -126,4 +126,58 @@ The flow of the functions in the smart contracts.
 
 
 
+# Setup
+
+1. Clone the repo
+
+```
+git clone https://github.com/Medtracker-Polygon-Bootcamp/Medtracker_Final.git && cd Medtracker_Final
+```
+
+2. Install dependencies
+
+```
+npm i
+```
+
+3. Run Ganache-cli
+
+```
+npm i -g ganache-cli
+```
+
+```
+ganache-cli --accounts 10 --gasLimit 6721975000
+```
+
+4. Migrate the contract to ganache for testing
+
+```
+truffle migrate --network=develop --reset
+```
+
+And for mumbai
+
+```
+truffle migrate --network=matic --reset
+```
+
+5. Open a second terminal and enter the client folder
+
+```
+cd client
+```
+
+6. Install all packages in the package.json file
+
+```
+npm i
+```
+
+7. Run the app
+
+```
+npm start
+```
+
 
