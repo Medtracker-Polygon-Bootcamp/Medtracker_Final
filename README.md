@@ -93,10 +93,12 @@ The frontend uses Web3.js to communicate with the smart contract and local block
     <img src="https://github.com/Medtracker-Polygon-Bootcamp/Medtracker_Final/blob/main/images/flow.png" width="300">  
 </p>
 
+
+
 ## How it works
 
 <img src="https://user-images.githubusercontent.com/55195287/124394128-9646a600-dd1b-11eb-8bf1-233320762f1c.png" />
-<img src="https://user-images.githubusercontent.com/55195287/124394171-d4dc6080-dd1b-11eb-87b2-127daa32481a.png" />
+
 
 <p>
   The lifecycle of a product starts when <strong>manufactureProduct()</strong> is called(while making an entry) after the final product is manufactured and the product and manufacturer details are entered in the blockchain. The <strong>productHistory[]</strong> gets initialized and the current product data is stored with the current owner(manufacturer).
@@ -127,8 +129,11 @@ The frontend uses Web3.js to communicate with the smart contract and local block
 </p>
 
 
+
 ## Contract Diagrams
-### Activity Diagram
+## Activity Diagram
+
+
 The overall flow of the project is described as follows.
 <p align="centre">
   <a>
