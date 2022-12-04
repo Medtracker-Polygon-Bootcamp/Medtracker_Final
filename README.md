@@ -232,7 +232,7 @@ We plan to improve the hash function section of the app. Such that every drug ma
 Link: https://radiant-torte-1a22b6.netlify.app/
 
 Demo Video
-https://drive.google.com/file/d/1EJUxNDlhYervIi5HduRqLv_Op8knS8Lv/view?usp=share_link
+https://drive.google.com/file/d/1xK5GliYiKYT12JalsCEXym3XAVkEpRp0/view?usp=share_link
 
 1. Make sure your metamask is connected.
 
