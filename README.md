@@ -246,7 +246,7 @@ Copy all 4 addresses into the "Assign roles" section of the DAPP.
 
 Now click on "ADD", it will pop out metamask so you can confirm the transaction.
 
-3 Visit as
+3. Visit as
 
 Now let's go to Visit as manufacturer. The manufacturers have the privilege to create products, so in your metamask, make sure you're in the address for Manufacturer.
 
@@ -255,7 +255,7 @@ Now let's go to Visit as manufacturer. The manufacturers have the privilege to c
 
 Enter in any random details and click Add products.
 
-4 Explorer - https://radiant-torte-1a22b6.netlify.app/explorer
+4. Explorer - https://radiant-torte-1a22b6.netlify.app/explorer
 
 This is where customers/patients go to check product history. Now input "1" into the search bar and see the result.
 
