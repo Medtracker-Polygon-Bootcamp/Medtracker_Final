@@ -59,6 +59,10 @@ Usually, supply chain is always hard to manage and requires a lot of admistrativ
 
 Also it leads to an increase in the transparency and helps to build an efficient Root of Trust. Med-tracker is such an implementation of a supply chain management system which uses blockchain to ensure a transparent and secure transfer of product from the manufacturer to the customer via the online e-commerce websites. 
 
+![Screenshot 2022-12-04 at 21 25 48](https://user-images.githubusercontent.com/29931071/205517223-f86b8266-9da1-41e5-aca5-09b85d8a9678.png)
+
+Now, with just a click, you can see how a drug has travelled from a manufacturere to you, the customer.
+
 
 # Team
 
