@@ -60,6 +60,25 @@ Usually, supply chain is always hard to manage and requires a lot of admistrativ
 Also it leads to an increase in the transparency and helps to build an efficient Root of Trust. Med-tracker is such an implementation of a supply chain management system which uses blockchain to ensure a transparent and secure transfer of product from the manufacturer to the customer via the online e-commerce websites. 
 
 
+# Team
+
+Adeola Adesina  - A licensed Pharmacist and Data scientist in Nigeria. He's the Superintendent Pharmacist at Sterling BioPharma, who currently sits on the registration and regulation of about 20 drug products.
+
+He's also the team lead for the Hackathon.
+
+https://www.linkedin.com/in/adeolaadesina19/
+
+Sarah Mogorosi - Sarah is an Obsessive Entrepreneur and Investor and a leader in the digital and blockchain technology space. She is also a FinTech professional. She holds a Bsc in Accounting from the University of Johannesburg.
+
+https://www.linkedin.com/in/sarahfaith1/
+
+Kenneth Ezenwanne - Kenneth is a Software Engineer with expertise spanning Devops, AI and the blockchain. Web Design, Cloud Management, Web Development, Software Testing, Technical Support, and Cybersecurity are also places of his abilities.
+
+https://www.linkedin.com/in/kenneth-ezenwanne-1a74a66b/
+
+
+
+
 ## Architecture
 The smart contract is being written with Solidity which is then compiled, migrated and deployed using Truffle.js on the local blockchain network created using Ganache-cli.
 
@@ -183,4 +202,17 @@ npm start
 
 # Next steps
 
-Considering the magnitude of how much lives we can save by decentralizing the African drug supply system, here's what we plan to use the prize moeny to achieve if we win.
+Considering the magnitude of how much lives we can save by decentralizing the African drug supply system, here's what we plan to use the prize moeny to achieve if we win:
+
+1. Add more functionalities.
+
+The app works just fine but the recieving function(from manufacturer to third party, third party to delivery hub, delivery hub to customer) could be better built with Node.JS/Next.JS
+
+2. Advocacy to Drug Supply Agency - NAFDAC
+
+We plan to sell this software to NAFDAC and the drug supply agencies of every African country for $100,000 or more, depending on the complexity. This is because the success of this app depends solely on the drug supply agency.
+
+3. Drug Hash.
+
+We plan to improve the hash function section of the app. Such that every drug manufactured by a manufacturer on this DAPP gets an hash number, that customers can use to verify the authenticity of each drug purchased.
+
