@@ -152,9 +152,7 @@ The flow of the functions in the smart contracts.
   </a>
 </p>
 
-Demo 
 
-https://drive.google.com/file/d/1EJUxNDlhYervIi5HduRqLv_Op8knS8Lv/view?usp=share_link
 
 # Setup
 
@@ -232,6 +230,9 @@ We plan to improve the hash function section of the app. Such that every drug ma
 # Website Demo Instructions
 
 Link: https://radiant-torte-1a22b6.netlify.app/
+
+Demo Video
+https://drive.google.com/file/d/1EJUxNDlhYervIi5HduRqLv_Op8knS8Lv/view?usp=share_link
 
 1. Make sure your metamask is connected.
 
