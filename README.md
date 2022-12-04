@@ -250,10 +250,11 @@ Now click on "ADD", it will pop out metamask so you can confirm the transaction.
 
 Now let's go to Visit as manufacturer. The manufacturers have the privilege to create products, so in your metamask, make sure you're in the address for Manufacturer.
 
+Enter in any random details and click Add products.
+
 ![Screenshot 2022-12-04 at 22 27 24](https://user-images.githubusercontent.com/29931071/205520019-0b61a3d3-3d52-49dc-b4db-5bd7e532dfac.png)
 
-
-Enter in any random details and click Add products.
+You can also explore Third Party, Delivery Hub and Customer section.
 
 4. Explorer - https://radiant-torte-1a22b6.netlify.app/explorer
 
@@ -261,3 +262,6 @@ This is where customers/patients go to check product history. Now input "1" into
 
 ![Screenshot 2022-12-04 at 22 30 52](https://user-images.githubusercontent.com/29931071/205520154-e4bde904-94d6-4dd5-967d-f7c9fb7099c9.png)
 
+
+
+So here's the MVP of our drug supply/anti-counterfeiting solution, built on Polygon.
