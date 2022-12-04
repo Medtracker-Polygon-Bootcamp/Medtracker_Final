@@ -181,3 +181,6 @@ npm start
 ```
 
 
+# Next steps
+
+Considering the magnitude of how much lives we can save by decentralizing the African drug supply system, here's what we plan to use the prize moeny to achieve if we win.
