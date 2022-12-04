@@ -225,3 +225,23 @@ We plan to sell this software to NAFDAC and the drug supply agencies of every Af
 
 We plan to improve the hash function section of the app. Such that every drug manufactured by a manufacturer on this DAPP gets an hash number, that customers can use to verify the authenticity of each drug purchased.
 
+
+
+# Website Demo Instructions
+
+Link: https://radiant-torte-1a22b6.netlify.app/
+
+1. Make sure your metamask is connected.
+
+2. First click on Assign roles. This section will be handled by the drug supply agency(NAFDAC in case of Nigeria).
+Open your Mumbai test net on Metamask and create 4 accounts(One for manufacturer, one for third party, one for delivery hub, one for customer)
+
+![Screenshot 2022-12-04 at 22 21 22](https://user-images.githubusercontent.com/29931071/205519717-5f34d228-22ec-477a-9e88-7c112d82eda2.png)
+
+Copy all 4 addresses into the "Assign roles" section of the DAPP.
+
+![Screenshot 2022-12-04 at 22 23 48](https://user-images.githubusercontent.com/29931071/205519817-a48cab5e-9b83-481e-8f71-44c232de249d.png)
+
+Now click on "ADD", it will pop out metamask so you can confirm the transaction.
+
+
