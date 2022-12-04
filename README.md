@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/Medtracker-Polygon-Bootcamp/Medtracker_Final/blob/main/images/logo.png" width="200"></a>
+  <a><img src="https://github.com/Medtracker-Polygon-Bootcamp/Medtracker_Final/blob/main/images/logo3.png" width="200"></a>
   <br>  
   Med-tracker
   <br>
