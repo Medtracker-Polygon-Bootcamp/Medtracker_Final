@@ -233,7 +233,9 @@ Link: https://radiant-torte-1a22b6.netlify.app/
 
 1. Make sure your metamask is connected.
 
-2. First click on Assign roles. This section will be handled by the drug supply agency(NAFDAC in case of Nigeria).
+2. Assign Roles
+
+First click on Assign roles. This section will be handled by the drug supply agency(NAFDAC in case of Nigeria).
 Open your Mumbai test net on Metamask and create 4 accounts(One for manufacturer, one for third party, one for delivery hub, one for customer)
 
 ![Screenshot 2022-12-04 at 22 21 22](https://user-images.githubusercontent.com/29931071/205519717-5f34d228-22ec-477a-9e88-7c112d82eda2.png)
@@ -244,4 +246,18 @@ Copy all 4 addresses into the "Assign roles" section of the DAPP.
 
 Now click on "ADD", it will pop out metamask so you can confirm the transaction.
 
+3 Visit as
+
+Now let's go to Visit as manufacturer. The manufacturers have the privilege to create products, so in your metamask, make sure you're in the address for Manufacturer.
+
+![Screenshot 2022-12-04 at 22 27 24](https://user-images.githubusercontent.com/29931071/205520019-0b61a3d3-3d52-49dc-b4db-5bd7e532dfac.png)
+
+
+Enter in any random details and click Add products.
+
+4 Explorer - https://radiant-torte-1a22b6.netlify.app/explorer
+
+This is where customers/patients go to check product history. Now input "1" into the search bar and see the result.
+
+![Screenshot 2022-12-04 at 22 30 52](https://user-images.githubusercontent.com/29931071/205520154-e4bde904-94d6-4dd5-967d-f7c9fb7099c9.png)
 
