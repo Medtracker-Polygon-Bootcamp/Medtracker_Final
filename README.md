@@ -233,7 +233,6 @@ We plan to improve the hash function section of the app. Such that every drug ma
 
 Link: https://radiant-torte-1a22b6.netlify.app/
 
-https://youtu.be/aK4RfW-XeZ8
 
 Demo Video
 
