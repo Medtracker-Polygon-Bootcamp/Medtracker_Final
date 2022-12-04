@@ -229,10 +229,15 @@ We plan to improve the hash function section of the app. Such that every drug ma
 
 # Website Demo Instructions
 
+
+
 Link: https://radiant-torte-1a22b6.netlify.app/
 
+https://youtu.be/aK4RfW-XeZ8
+
 Demo Video
-https://drive.google.com/file/d/1xK5GliYiKYT12JalsCEXym3XAVkEpRp0/view?usp=share_link
+
+https://drive.google.com/file/d/1EJUxNDlhYervIi5HduRqLv_Op8knS8Lv/view?usp=share_link
 
 1. Make sure your metamask is connected.
 
