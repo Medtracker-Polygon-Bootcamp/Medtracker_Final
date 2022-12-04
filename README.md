@@ -217,7 +217,7 @@ The app works just fine but the recieving function(from manufacturer to third pa
 
 We plan to sell this software to NAFDAC and the drug supply agencies of every African country for $100,000 or more, depending on the complexity. This is because the success of this app depends solely on the drug supply agency.
 
-3. Drug Hash.
+3. Drug Hash(Universal Product ID)
 
 We plan to improve the hash function section of the app. Such that every drug manufactured by a manufacturer on this DAPP gets an hash number, that customers can use to verify the authenticity of each drug purchased.
 
